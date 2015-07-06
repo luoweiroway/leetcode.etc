@@ -12,6 +12,6 @@ My solutions of the problems in Online judge website, leetcode, lintcode, etc.
 |**Repeated DNA Sequences**|[leetcode](https://oj.leetcode.com/problems/repeated-dna-sequences/)| [C++](./leetcode-lintcode/repeated-dna-sequences/repeated-dna-sequences.cpp)|Medium|
 |**Single Number**|[leetcode](https://oj.leetcode.com/problems/single-number/)| [C](./leetcode-lintcode/single-number/single-number.c)/[C++](./leetcode-lintcode/single-number/single-number.cpp)|Medium|
 |**Single Number II**|[leetcode](https://oj.leetcode.com/problems/single-number-ii/)| [C++](./leetcode-lintcode/single-number/single-number-ii.cpp)|Medium|
-|**Invert Binary Tree(翻转二叉树)**|[lintcode](http://www.lintcode.com/en/problem/invert-binary-tree/)| [C++](./leetcode-lintcode/number-of-1-bits/number-of-1-bits.cpp)|Easy|
+|**Invert Binary Tree(翻转二叉树)**|[lintcode](http://www.lintcode.com/en/problem/invert-binary-tree/)| [C++](./leetcode-lintcode/invert-binary-tree/invert-binary-tree.cpp)|Easy|
 |**Space Replacement(空格替换)**|[lintcode](http://www.lintcode.com/zh-cn/problem/space-replacement/)| [C++](./leetcode-lintcode/space-replacement/space-replacement.cpp)|Easy|
-|**Insert Interval(空格替换)**|[lintcode](http://www.lintcode.com/zh-cn/problem/insert-interval/)| [C++](./leetcode-lintcode/insert-interval/insert-interval.cpp)|Easy|
+|**Insert Interval**|[lintcode](http://www.lintcode.com/zh-cn/problem/insert-interval/)| [C++](./leetcode-lintcode/insert-interval/insert-interval.cpp)|Easy|
