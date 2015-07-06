@@ -14,3 +14,4 @@ My solutions of the problems in Online judge website, leetcode, lintcode, etc.
 |**Single Number II**|[leetcode](https://oj.leetcode.com/problems/single-number-ii/)| [C++](./leetcode-lintcode/single-number/single-number-ii.cpp)|Medium|
 |**Invert Binary Tree(翻转二叉树)**|[lintcode](http://www.lintcode.com/en/problem/invert-binary-tree/)| [C++](./leetcode-lintcode/number-of-1-bits/number-of-1-bits.cpp)|Easy|
 |**Space Replacement(空格替换)**|[lintcode](http://www.lintcode.com/zh-cn/problem/space-replacement/)| [C++](./leetcode-lintcode/space-replacement/space-replacement.cpp)|Easy|
+|**Insert Interval(空格替换)**|[lintcode](http://www.lintcode.com/zh-cn/problem/insert-interval/)| [C++](./leetcode-lintcode/insert-interval/insert-interval.cpp)|Easy|
