@@ -3,7 +3,7 @@
 My solutions of the problems in Online judge website, leetcode, lintcode, etc.
 
 * leetcode: 12 problems solved
-* lintcode: 22 problems solved
+* lintcode: 30 problems solved
 
 | Title | URL | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -14,14 +14,16 @@ My solutions of the problems in Online judge website, leetcode, lintcode, etc.
 |**Single Number II(落单的数 II)**|[leetcode](https://leetcode.com/problems/single-number-ii/)、[lintcode](http://www.lintcode.com/zh-cn/problem/single-number-ii/)| [C++](./leetcode-lintcode/single-number/single-number-ii.cpp)|Medium|
 |**Single Number III(落单的数 III)**|[lintcode](http://www.lintcode.com/zh-cn/problem/hash-function/)| [C++](./leetcode-lintcode/single-number/single-number-iii.cpp)|Medium|
 |**Hash Function(哈希函数)**|[lintcode](http://www.lintcode.com/zh-cn/problem/single-number-iii/)| [C++](./leetcode-lintcode/hash-function/hash-function.cpp)|Easy|
-|**Invert Binary Tree(翻转二叉树)**|[lintcode](http://www.lintcode.com/en/problem/invert-binary-tree/)| [C++](./leetcode-lintcode/invert-binary-tree/invert-binary-tree.cpp)|Easy|
 |**Space Replacement(空格替换)**|[lintcode](http://www.lintcode.com/zh-cn/problem/space-replacement/)| [C++](./leetcode-lintcode/space-replacement/space-replacement.cpp)|Easy|
 |**Insert Interval**|[lintcode](http://www.lintcode.com/zh-cn/problem/insert-interval/)| [C++](./leetcode-lintcode/insert-interval/insert-interval.cpp)|Easy|
-|**Rotate Array**|[leetcode](https://leetcode.com/problems/rotate-array/)| [C++](./leetcode-unique/rotate-array/rotate-array.cpp)|Easy|
-|**Remove Element(删除元素)**|[leetcode](https://leetcode.com/problems/remove-element/)、[lintcode](http://www.lintcode.com/zh-cn/problem/remove-element/)| [C++](./lintcode-unique/remove-element/remove-element.cpp)|Easy|
-|**Remove Duplicates from Sorted Array(删除排序数组中的重复数字)**|[leetcode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)、[lintcode](http://www.lintcode.com/zh-cn/problem/remove-duplicates-from-sorted-array/)| [C++](./lintcode-unique/remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.cpp)|Easy|
-|**Remove Duplicates from Sorted Array II(删除排序数组中的重复数字 II)**|[leetcode](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)、[lintcode](http://www.lintcode.com/zh-cn/problem/remove-duplicates-from-sorted-array-ii/)| [C++](./lintcode-unique/remove-duplicates-from-sorted-array-ii/remove-duplicates-from-sorted-array-ii.cpp)|Medium|
-|**Rotate String(旋转字符串)**|[lintcode](http://www.lintcode.com/zh-cn/problem/rotate-string/)| [C++](./lintcode-unique/rotate-string/rotate-string.cpp)|Easy|
-|**Recover Rotated Sorted Array(恢复旋转排序数组)**|[lintcode](http://www.lintcode.com/en/problem/recover-rotated-sorted-array/)| [C++](./lintcode-unique/recover-rotated-sorted-array/recover-rotated-sorted-array.cpp)|Easy|
+|**Remove Element(删除元素)**|[leetcode](https://leetcode.com/problems/remove-element/)、[lintcode](http://www.lintcode.com/zh-cn/problem/remove-element/)| [C++](./leetcode-lintcode/remove-element/remove-element.cpp)|Easy|
+|**Remove Duplicates from Sorted Array(删除排序数组中的重复数字)**|[leetcode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)、[lintcode](http://www.lintcode.com/zh-cn/problem/remove-duplicates-from-sorted-array/)| [C++](./leetcode-lintcode/remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.cpp)|Easy|
+|**Remove Duplicates from Sorted Array II(删除排序数组中的重复数字 II)**|[leetcode](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)、[lintcode](http://www.lintcode.com/zh-cn/problem/remove-duplicates-from-sorted-array-ii/)| [C++](./leetcode-lintcode/remove-duplicates-from-sorted-array-ii/remove-duplicates-from-sorted-array-ii.cpp)|Medium|
+|**Invert Binary Tree(翻转二叉树)**|[leetcode](https://leetcode.com/problems/invert-binary-tree/)、[lintcode](http://www.lintcode.com/en/problem/invert-binary-tree/)| [C++](./leetcode-lintcode/invert-binary-tree/invert-binary-tree.cpp)|Easy|
+|**Reverse Linked List(翻转链表)**|[leetcode](https://leetcode.com/problems/reverse-linked-list/)、[lintcode](http://www.lintcode.com/zh-cn/problem/reverse-linked-list/)| [C++](./leetcode-lintcode/reverse-linked-list/reverse-linked-list.cpp)|Easy|
+|**Reverse Linked List II(翻转链表 II)**|[leetcode](https://leetcode.com/problems/reverse-linked-list-ii/)、[lintcode](http://www.lintcode.com/zh-cn/problem/reverse-linked-list-ii/)| [C++](./leetcode-lintcode/reverse-linked-list-ii/reverse-linked-list-ii.cpp)|Easy|
+|**Rotate Array**|[leetcode](https://leetcode.com/problems/rotate-array/)| [C++](./leetcode-lintcode/rotate-array/rotate-array.cpp)|Easy|
+|**Rotate String(旋转字符串)**|[lintcode](http://www.lintcode.com/zh-cn/problem/rotate-string/)| [C++](./leetcode-lintcode/rotate-string/rotate-string.cpp)|Easy|
+|**Recover Rotated Sorted Array(恢复旋转排序数组)**|[lintcode](http://www.lintcode.com/en/problem/recover-rotated-sorted-array/)| [C++](./leetcode-lintcode/recover-rotated-sorted-array/recover-rotated-sorted-array.cpp)|Easy|
 |**Rotate List(旋转链表)**|[leetcode](https://leetcode.com/problems/rotate-list/)、[lintcode](http://www.lintcode.com/zh-cn/problem/rotate-list/)| [C++](./leetcode-lintcode/rotate-list/rotate-list.cpp)|Easy|
-|**Nth to Last Node in List(链表倒数第n个节点)**|[lintcode](http://www.lintcode.com/zh-cn/problem/nth-to-last-node-in-list/)| [C++](./lintcode-unique/nth-to-last-node-in-list/nth-to-last-node-in-list.cpp)|Easy|
+|**Nth to Last Node in List(链表倒数第n个节点)**|[lintcode](http://www.lintcode.com/zh-cn/problem/nth-to-last-node-in-list/)| [C++](./leetcode-lintcode/nth-to-last-node-in-list/nth-to-last-node-in-list.cpp)|Easy|
