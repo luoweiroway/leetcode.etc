@@ -2,8 +2,8 @@
 
 My solutions of the problems in Online judge website, leetcode, lintcode, etc.
 
-* leetcode: 12 problems solved
-* lintcode: 30 problems solved
+* leetcode: 13 problems solved
+* lintcode: 31 problems solved
 
 | Title | URL | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -21,8 +21,9 @@ My solutions of the problems in Online judge website, leetcode, lintcode, etc.
 |**Remove Duplicates from Sorted Array II(删除排序数组中的重复数字 II)**|[leetcode](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)、[lintcode](http://www.lintcode.com/zh-cn/problem/remove-duplicates-from-sorted-array-ii/)| [C++](./leetcode-lintcode/remove-duplicates-from-sorted-array-ii/remove-duplicates-from-sorted-array-ii.cpp)|Medium|
 |**Invert Binary Tree(翻转二叉树)**|[leetcode](https://leetcode.com/problems/invert-binary-tree/)、[lintcode](http://www.lintcode.com/en/problem/invert-binary-tree/)| [C++](./leetcode-lintcode/invert-binary-tree/invert-binary-tree.cpp)|Easy|
 |**Reverse Linked List(翻转链表)**|[leetcode](https://leetcode.com/problems/reverse-linked-list/)、[lintcode](http://www.lintcode.com/zh-cn/problem/reverse-linked-list/)| [C++](./leetcode-lintcode/reverse-linked-list/reverse-linked-list.cpp)|Easy|
-|**Reverse Linked List II(翻转链表 II)**|[leetcode](https://leetcode.com/problems/reverse-linked-list-ii/)、[lintcode](http://www.lintcode.com/zh-cn/problem/reverse-linked-list-ii/)| [C++](./leetcode-lintcode/reverse-linked-list-ii/reverse-linked-list-ii.cpp)|Easy|
-|**Rotate Array**|[leetcode](https://leetcode.com/problems/rotate-array/)| [C++](./leetcode-lintcode/rotate-array/rotate-array.cpp)|Easy|
+|**Reverse Linked List II(翻转链表 II)**|[leetcode](https://leetcode.com/problems/reverse-linked-list-ii/)、[lintcode](http://www.lintcode.com/zh-cn/problem/reverse-linked-list-ii/)| [C++](./leetcode-lintcode/reverse-linked-list-ii/reverse-linked-list-ii.cpp)|Medium|
+|**Reverse Words in a String (翻转字符串)**|[leetcode](https://leetcode.com/problems/reverse-words-in-a-string/)、[lintcode](http://www.lintcode.com/zh-cn/problem/reverse-words-in-a-string/)| [C++](./leetcode-lintcode/reverse-words-in-a-string/reverse-words-in-a-string.cpp)|Medium|
+|**Rotate Array(旋转数组)**|[leetcode](https://leetcode.com/problems/rotate-array/)| [C++](./leetcode-lintcode/rotate-array/rotate-array.cpp)|Easy|
 |**Rotate String(旋转字符串)**|[lintcode](http://www.lintcode.com/zh-cn/problem/rotate-string/)| [C++](./leetcode-lintcode/rotate-string/rotate-string.cpp)|Easy|
 |**Recover Rotated Sorted Array(恢复旋转排序数组)**|[lintcode](http://www.lintcode.com/en/problem/recover-rotated-sorted-array/)| [C++](./leetcode-lintcode/recover-rotated-sorted-array/recover-rotated-sorted-array.cpp)|Easy|
 |**Rotate List(旋转链表)**|[leetcode](https://leetcode.com/problems/rotate-list/)、[lintcode](http://www.lintcode.com/zh-cn/problem/rotate-list/)| [C++](./leetcode-lintcode/rotate-list/rotate-list.cpp)|Easy|

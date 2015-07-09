@@ -1,4 +1,3 @@
-// Source : https://oj.leetcode.com/problems/reverse-integer/
 // Author : luowei
 
 //leetcode
