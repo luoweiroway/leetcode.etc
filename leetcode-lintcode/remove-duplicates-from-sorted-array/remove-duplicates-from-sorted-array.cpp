@@ -47,6 +47,12 @@ public:
                     nums[back]=nums[i];
             }
         }
-        return ++back;
+        nums.resize(++back);//删除后面余留的数字空间
+        return back;
     }
+
+    //方法二，直接使用STL
+    /*int removeDuplicates(vector<int> &nums) {
+        return distance(nums.begin(),unique(nums.begin(),nums.end()));
+    }*/
 };

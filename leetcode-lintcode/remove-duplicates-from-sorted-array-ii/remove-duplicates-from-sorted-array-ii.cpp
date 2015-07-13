@@ -52,7 +52,8 @@ public:
                 flag=false;
             }
         }
-        return ++back;
+        nums.resize(++back);
+        return back;
     }*/
     int removeDuplicates(vector<int> &nums) {
         // write your code here
@@ -73,6 +74,7 @@ public:
             } 
         }
 
-        return ++back;
+        nums.resize(++back);
+        return back;
     }
 };
