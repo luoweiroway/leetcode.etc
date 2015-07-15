@@ -33,3 +33,18 @@ My solutions of the problems in Online judge website, leetcode, lintcode, etc.
 |**Rotate List(旋转链表)**|[leetcode](https://leetcode.com/problems/rotate-list/)、[lintcode](http://www.lintcode.com/zh-cn/problem/rotate-list/)| [C++](./leetcode-lintcode/rotate-list/rotate-list.cpp)|Easy|
 |**Nth to Last Node in List(链表倒数第n个节点)**|[lintcode](http://www.lintcode.com/zh-cn/problem/nth-to-last-node-in-list/)| [C++](./leetcode-lintcode/nth-to-last-node-in-list/nth-to-last-node-in-list.cpp)|Easy|
 |**Invert Binary Tree(翻转二叉树)**|[leetcode](https://leetcode.com/problems/invert-binary-tree/)、[lintcode](http://www.lintcode.com/en/problem/invert-binary-tree/)| [C++](./leetcode-lintcode/invert-binary-tree/invert-binary-tree.cpp)|Easy|
+
+##快排
+| Title | URL | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|**Sort Letters by Case(字符大小写排序)**|[lintcode](http://www.lintcode.com/zh-cn/problem/sort-letters-by-case/)| [C++](./leetcode-lintcode/sort-letters-by-case/sort-letters-by-case.cpp)|Medium|
+|**Partition Array by Odd and Even(奇偶分割数组)**|[lintcode](http://www.lintcode.com/zh-cn/problem/partition-array-by-odd-and-even/)| [C++](./leetcode-lintcode/partition-array-by-odd-and-even/partition-array-by-odd-and-even.cpp)|Easy|
+|**Partition Array(数组划分)**|[lintcode](http://www.lintcode.com/zh-cn/problem/partition-array/)| [C++](./leetcode-lintcode/partition-array/partition-array.cpp)|Medium|
+|**Partition List(链表划分)**|[lintcode](http://www.lintcode.com/zh-cn/problem/partition-list/)| [C++](./partition-list/partition-list.cpp)|Medium|
+|**Interleaving Positive and Negative Numbers(交错正负数)**|[lintcode](http://www.lintcode.com/zh-cn/problem/interleaving-positive-and-negative-numbers/)| [C++](./leetcode-lintcode/interleaving-positive-and-negative-numbers/interleaving-positive-and-negative-numbers.cpp)|Medium|
+|**Sort Colors(颜色分类)**|[lintcode](http://www.lintcode.com/zh-cn/problem/sort-colors/)| [C++](./leetcode-lintcode/sort-colors/sort-colors.cpp)|Medium|
+|**Sort Colors II(排颜色 II)**|[lintcode](http://www.lintcode.com/zh-cn/problem/sort-colors-ii/)| [C++](./leetcode-lintcode/sort-colors-ii/sort-colors-ii.cpp)|Medium|
+|**Kth Largest Element(第k大元素)**|[lintcode](http://www.lintcode.com/zh-cn/problem/kth-largest-element/)| [C++](./kth-largest-element/kth-largest-element.cpp)|Medium|
+
+#堆
+|**Heapify(堆化)**|[lintcode](http://www.lintcode.com/zh-cn/problem/heapify/)| [C++](./heapify/heapify.cpp)|Medium|
